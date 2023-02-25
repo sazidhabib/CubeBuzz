@@ -1,6 +1,10 @@
 # CubeBuzz
  A Cube Game That is made in Unity 3D.
  
+ Unity 3D provides a comprehensive set of tools for game development, including a powerful game engine, an intuitive editor interface, and a scripting language (C# or JavaScript) that allows developers to create custom functionality and behaviors for their games. It also includes a range of built-in features such as physics simulation, lighting and shading effects, and animation tools, making it a versatile tool for creating games of all genres and styles.
+
+Unity 3D has been used to create a wide range of games, from indie titles to AAA games, and is also popular in other industries such as architecture, automotive design, and film and TV production. Its popularity can be attributed to its ease of use, flexibility, and robustness, making it a go-to choice for many game developers and designers.
+ 
  ## Unity
  Unity is a cross-platform game engine developed by Unity Technologies, first announced and released in June 2005 at Apple Worldwide Developers Conference as a Mac OS X  game engine. The engine has since been gradually extended to support a variety of desktop, mobile, console and virtual reality platforms.
 
